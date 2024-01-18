@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Unit Converter App</string>
+
+    <string-array name="unit_array_length">
+        <item>Kilometers</item>
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+        <item>Feet</item>
+    </string-array>
+    <string-array name="unit_array_temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="unit_array_weight">
+        <item>Kilograms</item>
+        <item>Grams</item>
+    </string-array>
+    <string-array name="unit_array_time">
+        <item>Years</item>
+        <item>Months</item>
+        <item>Weeks</item>
+        <item>Days</item>
+        <item>Hours</item>
+        <item>Minutes</item>
+        <item>Seconds</item>
+    </string-array>
+
+</resources>
